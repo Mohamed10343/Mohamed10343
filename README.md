@@ -33,10 +33,12 @@ I am actively seeking Data Engineering Internship opportunities.
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed10343&show_icons=true&theme=default)
 
 ---
 
-📫 Open to Data Engineering Internship Opportunities
+## 📫 Connect With Me
+
+📧 Email: mohamedibrahim45469@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-b2aa1a32b  
+
+🚀 Open to Data Engineering Internship Opportunities
