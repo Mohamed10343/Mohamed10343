@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Ibrahim 👋
 
-🎓 Computer Science Student | Aspiring Data Engineer  
+🎓 Computer Science Student | Data Engineer  
 💾 Strong SQL Skills (Joins, CTEs, Window Functions, Aggregations)  
 📊 Experience with Excel & Power BI  
 🐍 Currently developing Python for data processing  
