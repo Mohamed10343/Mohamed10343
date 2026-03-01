@@ -27,6 +27,7 @@ I am actively seeking Data Engineering Internship opportunities.
 
 ## 📌 Featured Projects
 
+- 🔹 SQL_Data_Warehouse_Project (SQL Server)
 - 🔹 E-Commerce SQL Server Project (Database Simulation)
 - 🔹 Sales Insights Dashboard (Power BI)
 - 🔹 Excel Sales Analytics Dashboard
